@@ -27,24 +27,39 @@ published: true
 
 	</div>
 
-<h3>Carbon and the Global Carbon Cycle </h3>
+<h3> Carbono y el ciclo global del carbono </h3>
 
-Carbon is a ubiquitous element on Earth. Most of the Earth’s carbon is stored in rocks, but this carbon is essentially inert on the 100’s to 1000’s year timescales of interest to humans.
-The rest of the carbon is stored as CO2 (carbon dioxide) in the atmosphere (2%), as biomass in land plants and soils (5%), as fossil fuels in a variety of geologic reservoirs (8%) and as a collection of ions in the ocean (85%). These are the “active” reservoirs of carbon of interest in this website.
+<ul>
 
-<h3> How are the Global Carbon Cycle and Climate Change / Global Warming connected? </h3>
+<li> El elemento carbón es un elemento ubiquito en la Tierra. La mayor parte del carbón
 
-The Earth is warmed by the Sun. This warmth is returned from Earth to the atmosphere in the form of heat radiation.
-Many gases in the atmosphere, including CO2, absorb the Earth’s heat energy and radiate in all directions. The energy radiated downward warms the surface and lower atmosphere.
-Adding more CO2 to the atmosphere means more heat radiation is captured by the atmosphere and radiated back to Earth.
-Methane, CH4, is another very important greenhouse gas that is part of the carbon cycle. This website addresses only CO2.
+<li> en la Tierra se encuentra almacenado en las rocas y es esencialmente inherte en escalas de tiempo de centos y miles de años. Éstas escalas de tiempo son las ecalas que interesan a la humanidad.
 
-<h3> Humans add CO2 to the Atmosphere, Nature removes about half of it. </h3>
+<li> El resto del carbono se almacena como:  CO2 (dióxido de carbono) en la atmósfera (2%), biomasa en plantas terrestres y suelo (5%), combustibles fósiles en reservas geologica (8%) y como un grupo de iones en los oceanos  (85%). Éstas son las reservas activas de carbono de las que se trata en éste sitio.
+  
+</ul>
 
-In the 1990’s, humans added 8.0×1015 grams of carbon (1015 grams of carbon  = 1 PgC) to the atmosphere each year, primarily by burning fossil fuels (6.4 PgC/yr) and clearing land in the tropics (1.6 PgC/yr). The ocean took up 28% of this carbon, and the land absorbed 32%. Only 40% remained in the atmosphere to cause climate warming.
-Natural processes are significantly damping the rate of carbon accumulation in the atmosphere.
-From 2000-2008, humans added 9.1 PgC to the atmosphere each year, 7.7 PgC/yr from fossil fuels and 1.4 PgC/yr from land use change. There is some evidence that a larger fraction of these recent emissions has remained in the atmosphere (45%, LeQuere et al. 2009).
-Future climate warming depends on both the CO2 source from human emissions and the CO2 sink from natural sinks in the ocean and the terrestrial biosphere.
+<h3> ¿Cómo están conectados el ciclo global de carbono y el cambio climático/clanetamiento global? </h3>
+
+<ul>
+
+<li>La fuente de calor en la tierra es el sol. La Tierra regresa este calor a la atmóspfera en forma de radiación. Muchos gases presentes en la atmósfera, incluido el CO2, absorben el calor de la Tierra y lo emiten en forma de radiación en todas direcciones. La energia que es emitida hacia abajo calienta la superficie terrestre y la parte baja de la atmósfera. Es debido a la capacidad de estos gases de calentar la superficie terrestre por lo que se les conoce como gases invernadero.
+<li>El agregar más  CO2 a la atmósfera implica que la atmósfer calienta más la superficie terrestre al poder capturar mayor radiación terrestre.
+<li>Aun cuando el metano, CH4, es otro gas invernadero de gran importancia que puede formar parte del ciclo de carbono, este sitio sólo trata al dióxido de carbono.
+
+</ul>
+
+<h3> La humanidad agrega  CO2 a la atmósferla, naturaleza elimina cerca de la mitad </h3>
+
+<ul>
+<li> De 2007 a 2016, la humanidad agregó a la atmósfera en promedio 9.4×1015 gramos de carbono (1015 gramos de  carbono  = 1 PgC) cada año, principalmete por el consumo de combustibles fósiles (9.4 PgC/yr) y tambien por cambio de la utilización del suelo (1.3 PgC/yr). Los oceanos absorbieron el 22% de este carbono, y los sistemas terrestres el 28%, y 6% OF THE EMISSIONS ARE UNACCOUNTED FOR AS SINKS (LeQuere et al. 2017). En la atmósfera tan sólo quedó el 50% restante. Este 50% es el que contribuye al cambio climático.
+
+<li>  Existen procesos naturales que reducen el ritmo de acumulación de carbono en la atmósfera.
+
+<li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, asi como de los umideros naturales de carbono en os oceanos y la biosfera terrestre.
+
+</ul>  
+
 
 <p> </p>
 
