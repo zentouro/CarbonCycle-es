@@ -46,19 +46,26 @@ published: true
 <ul>
 
 <li>La fuente de calor en la tierra es el sol. La Tierra regresa este calor a la atmóspfera en forma de radiación. Muchos gases presentes en la atmósfera, incluido el CO2, absorben el calor de la Tierra y lo emiten en forma de radiación en todas direcciones. La energia que es emitida hacia abajo calienta la superficie terrestre y la parte baja de la atmósfera. Es debido a la capacidad de estos gases de calentar la superficie terrestre por lo que se les conoce como gases invernadero.
+</li>
 <li>El agregar más  CO2 a la atmósfera implica que la atmósfer calienta más la superficie terrestre al poder capturar mayor radiación terrestre.
+</li>
 <li>Aun cuando el metano, CH4, es otro gas invernadero de gran importancia que puede formar parte del ciclo de carbono, este sitio sólo trata al dióxido de carbono.
+</li>
 
 </ul>
+
 
 <h3> La humanidad agrega  CO2 a la atmósferla, naturaleza elimina cerca de la mitad </h3>
 
 <ul>
 <li> De 2007 a 2016, la humanidad agregó a la atmósfera en promedio 9.4×1015 gramos de carbono (1015 gramos de  carbono  = 1 PgC) cada año, principalmete por el consumo de combustibles fósiles (9.4 PgC/yr) y tambien por cambio de la utilización del suelo (1.3 PgC/yr). Los oceanos absorbieron el 22% de este carbono, y los sistemas terrestres el 28%, y 6% OF THE EMISSIONS ARE UNACCOUNTED FOR AS SINKS (LeQuere et al. 2017). En la atmósfera tan sólo quedó el 50% restante. Este 50% es el que contribuye al cambio climático.
+</li>
 
 <li>  Existen procesos naturales que reducen el ritmo de acumulación de carbono en la atmósfera.
+</li>
 
 <li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, asi como de los umideros naturales de carbono en os oceanos y la biosfera terrestre.
+</li>
 
 </ul>  
 
