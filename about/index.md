@@ -5,17 +5,17 @@ title: About
 published: true
 ---
 
-This carbon cycle education project is led by:
+Este proyecto sobre la educación del ciclo del carbono esta lidereado por:
+Profesora Galen A. McKinley 
+Columbia University 
+Department of Earth and Environmental Sciences 
+and
+Lamont Doherty Earth Observatory 
+New York, USA 
 
-Professor Galen A. McKinley
-Atmospheric and Oceanic Sciences and Center for Climatic Research
-University of Wisconsin – Madison
-Madison, WI USA
+email: mckinley at ldeo.columbia.edu
 
-mckinley.aos.wisc.edu
+El applet fué desarrollado por la profesora McKinley en colaboración con Tommy Jasmin and Tom Whittaker del University of Wisconsin-Madison. Mirian Nielsen and Dierk Polzin diseñó el sitio web, y Juan Botella tradujo el sitio al español.
 
-email: gamckinley at wisc.edu
+Agradecemos a la NASA por proveer los fondos para este proyecto.
 
-The applet was developed by Professor McKinley in collaboration with Tommy Jasmin and Tom Whittaker of the UW-Madison Space Science and Engineering Center. Dierk Polzin designed the website, and Juan Botella created the banner.
-
-We thank NASA for funding this project. 

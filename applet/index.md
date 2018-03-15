@@ -6,14 +6,14 @@ published: true
 ---
 
 <div style="text-align:center"> 
-<h3> The Global Carbon Budget : 1960 to 2100 </h3>
+<h3> El presupuesto Global del Carbono: 1960 a 2100 </h3>
 
 <p>
 
-Project CO2 sources and sinks by dragging the green points on the left graph. 
+Estipula las fuentas y sumideros del CO2 al deslizar los puntos verdes en la grafica de la izquierda.
 
 <br>
-Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relative fluxes (bottom graphic).
+Oprime Corre Proyección para obener el impacto en CO2 atmosférico (gráfica a la dereche) y los flujos relativos (gráfica de abajo)
 
 </p>
 
@@ -22,10 +22,11 @@ Hit Run Projection for the impact on atmospheric CO2 (right graph) and the relat
 
 </div>
 
-**Important Notes:**
+**Notas Importantes:**
 
-1. The blue areas mark predicted ranges from the global climate models used in the Intergovernmental Panel on Climate Change, Fourth Assessment Report ([IPCC AR4, 2007](http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm)).
-2. The estimated global temperature response is a rough scaling based upon average IPCC AR4 (2007) model sensitivity to atmospheric CO2. It is for illustrative purposes only.
-3. Output of atmospheric CO2 for input to the EdGCM ([Educational Global Climate Model](http://edgcm.columbia.edu/)) can be obtained by clicking on the EdGCM button. Place this file in the file EdGCM/Input Forcings on your computer and you will then see the file under Setup Simulations – CO2 Trend – data file once you start EdGCM.
+1. Las áreas azules indican los rangos predecidos por los modelos numéricos usados en el Cuarto Informe del Grupo de Expertos para el Cambio Climático ([IPCC AR4, 2007](http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm)).
+2. La estimación de la respuesta global de la temperatura está basado en el promedio de la sensitividad al CO2 de los modelos usados en el IPCC AR4 (2007). Se incluye a modo de ilustración.
+3. Se pueden utlilizar los resultados de CO2 atmosférico para ser usados como condiciones iniciales del modelo numérico educativo de cambio climático EdGCM ([Educational Global Climate Model](http://edgcm.columbia.edu/)). Para obtener estos resultados, solo hay que oprimir el botón EdGCM. Archive este archivo en la carpeta EdGCM/Input Forcings en su computadora (si tiene EdGCM). Usted podrá ver el archivo bajo Setup Simulations – CO2 al iniciar el modelo EdGCM.
+
 
 
