@@ -148,30 +148,31 @@ Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Tod
 <a name="FossilFuels"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.fossilfuels }})">
       <div class="wrap page-lead-content">
-        <h1> Fossil Fuels </h1>
+        <h1> Combustibles fósiles </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
 <h3> The Basics </h3> 
 
-Burning fossil fuels puts carbon into the atmosphere. Other smaller sources include industrial processes such as cement manufacture and natural gas flaring. Fossil fuels provide most of the energy that supports human transportation, electricity production, heating and cooling of buildings, and industrial activity. Oil used to be the dominant fossil fuel, but as of 2008, coal is dominant (40% to oil’s 37%).
+La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefiacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero actualmente en 2016, el carbón mineral es el combustible dominante (40% el carbón mineral y 34% el petróleo), and the share from natural gas is steadily growing (19% in 2016).
+<p>
+En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, y en el periodo entre 2007-2016, aumentó a 9.4 PgC/año. Entre los años 2000-2009, la emisión aumentó un 3.3% cada año, sustancialmente más rápido que el crecimiento del 1.0 % al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. From 2012-2016, the rate of emissions growth substantially slowed. Nonetheless, emissions over 2007-2016 are largely are consistent with the most intensive fossil fuel emission projections used in the IPCC AR5 report (RCP8.5).  
+
+</p>
 
 <p>
-In the 1990’s, human fossil fuel use emitted 6.4 Petagrams of carbon (PgC) per year, and in from 2000-2008, 7.7 PgC/yr. Over 2000-2008, emissions increased by 3.4% per year, substantially faster than the growth rate of 1.0% per year in the 1990’s. This dramatic increase is due primarily to a doubling of emissions from developing countries. Emissions in 2008 are consistent with the most intensive fossil fuel emission projections used in the IPCC AR4 report (A1FI scenario). </p>
-
-<p>
-Evidence indicates that the rapid rise in emissions from developing countries, including China, are due to growth in international trade and a shift of developed countries toward service economies. The production of exports in developing countries is also an important driver of their increased emissions. </p>
+Las evidencias indican que el rápido aumento en las emisiones por parte de países en desarrollo, como China, se debe al crecimiento en el comercio internacional, así como al cambio en los países desarrollados hacia una economía de servicios. La producción de exportaciones en los países desarrollados también contribuye al aumento de emisiones.
 
 <p> 
-You can find information about the emissions from the developed world (so-called Annex 1 countries in IPCC terms) on the <a href="http://unfccc.int/ghg_data/items/3800.php"> UNFCCC site</a>. You can also learn more about the spatial and temporal pattern of US emissions from <a href="http://vulcan.project.asu.edu/"> Project Vulcan. </a> </p>
+You can find information about the emissions from all countries from the detailed data provided by the <a href="http://www.globalcarbonproject.org/carbonbudget/index.htm">Global Carbon Project (GCP)</a>, released each year. Online visualizations are available from the <a href="http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas">GCP’s Global Carbon Atlas</a?.
 
-<h3> The Future of Fossil Fuels </h3>
+<h3> El futuro de los combustibles fósiles </h3>
 
-The future of anthropogenic fossil fuel use depends on human decisions about energy use at the international scale. If we collectively choose to depend more and more on fossil fuels, our emissions will increase. If we choose to focus on efficiency and renewable energy sources, our emissions will not increase so quickly or even stabilize or decline. These are difficult choices with potentially dramatic implications for economies, politics, environment, and society from the local to the global scale. These issues are the focus of the activities under the <a href="https://cop23.unfccc.int/"> United Nations Framework Convention on Climate Change </a> such as the well-known Kyoto Protocol and the current negotiations for a successor to this action plan.
+El futuro del uso antropogénico de los combustibles fósiles dependerá de las decisiones humanas que se tomen a niveles local a internacional sobre el uso de la energía. Si decidimos en forma colectiva depender más en los combustibles fósiles, nuestras emisiones aumentarán. Si por el contrario, decidimos enfocarnos en la eficiencia del uso energético y en las Fuentes renovables de energía, nuestras emisiones no aumentarán tan rápidamente e incluso podría estabilizarse o reducirse. Estas son decisiones difíciles de tomar con posibles implicaciones dramáticas para la economía, la política, el medio ambiente y la sociedad en general desde escalas locales a escalas globales. Estas implicaciones son el foco de actividades de a <a href="https://cop23.unfccc.int/"> Convención sobre el Cambio Climático de las Naciones Unidas (UNFCC por sus siglas en inglés)</a>, with the most significant recent development being the 2015 Paris Agreement. Current activities focus on the implementation of this plan. 
 
 <h4> References </h4>
 
-<a href="https://www.nature.com/articles/ngeo689"> Le Quere, C., Raupach M.R., Canadell, J.G., Marland, G. et al (2009) Trends in the sources and sinks of carbon dioxide. Nature Geoscience 2, 831 – 836. doi:10.1038/ngeo689. </a>
+<a href="https://www.earth-syst-sci-data-discuss.net/essd-2017-123/"> Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017. </a>
 
 <p> <a href="http://www.globalcarbonproject.org/carbonbudget/"> Global Carbon Project </a> </p>
 
