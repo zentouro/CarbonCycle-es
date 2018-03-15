@@ -37,7 +37,7 @@ published: true
 
 <li> El resto del carbono se almacena como:  CO2 (dióxido de carbono) en la atmósfera (2%), biomasa en plantas terrestres y suelo (5%), combustibles fósiles en reservas geologica (8%) y como un grupo de iones en los oceanos  (85%). Éstas son las reservas activas de carbono de las que se trata en éste sitio.
   
-</ul>
+
 
 <h3> ¿Cómo están conectados el ciclo global de carbono y el cambio climático/clanetamiento global? </h3>
 
