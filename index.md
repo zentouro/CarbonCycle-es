@@ -66,37 +66,57 @@ published: true
 <a name="CarbonCycle"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.forest }})">
       <div class="wrap page-lead-content">
-         <h1> Carbon Cycle </h1>
+         <h1> Ciclo del Carbono </h1>
       </div><!-- /.page-lead-content --> 
 
 </div><!-- /.page-lead -->
 
-<h3> The Basics </h3>
+<h3> Lo Básico </h3>
 
- Carbon is transferred between CO2 and living or dead organic material by the very basic photosynthesis / respiration reaction (shown here in simplified form).
+El carbono se transfiere entre el  CO2 y los organismos vivos y muertos mediante el proceso básico de fotosíntesis / respiración (mostrado aqui en forma simplificada).
 
+<div style = "text-align:center">
 <p> CO2+H2O+energy <=> CH2O + O2 </p>
+</div>
 
-<p> When this reaction proceeds to the right, it is the fixation of carbon to organic matter by plants via photosynthesis; and when it proceeds to the left, it is respiration or combustion of that organic matter. Fossil fuels are the remnants of dead organic matter that lived millions of years ago. </p>
+<p> Cuando la reacción es de izquierda a derecha, las plantas y algas fijan al carbono en la materia orgánica mediante la fotosíntesis; cuando la reación es de derecha a izquierda, la respiración o la combustión son los procesos que liberan al carbono de la materia orgánica. Los combustibles fósiles son remanentes de organismos que vivieron hace millones de años y que almacenaron grandes cantidades de carbón.
+ </p>
 
-<h3> The Global Carbon Cycle </h3>
+<h3> El ciclo global del carbono</h3>
 
-The carbon cycle is a complex system of biological, chemical and physical processes. A schematic from the IPCC AR4 report is shown here. The schematic shows the major reservoirs of carbon in gigatons of carbon, GtC (1 GtC = 1 PgC: Petagram of Carbon) and the major fluxes in GtC/yr. The numbers shown are the best estimates for the 1990’s.
+El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aqui se muestra un esquema del reporte IPCC AR4. El esquema muestra los reservorios de carbono en las unidades de giga toneladas , GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr. Los números que se muestran representan las mejores estimaciones para la década de los años 1990’s.
+
+These flux estimates are updated annually by the <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project  (LeQuere et al. 2017) and the state of carbon cycle science is reviewed in each IPCC report (Ciais et. al 2013).
 
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/figure-7-3-l.png" /> </div> 
 
 <p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. The global carbon cycle for the 1990s, showing the main annual fluxes in GtC yr –1 : pre-industrial ‘natural’ fluxes in black and ‘anthropogenic’ fluxes in red (modified from Sarmiento and Gruber, 2006, with changes in pool sizes from Sabine et al., 2004a). The net terrestrial loss of –39 GtC is inferred from cumulative fossil fuel emissions minus atmospheric increase minus ocean storage. The loss of –140 GtC from the ‘vegetation, soil and detritus’ compartment represents the cumulative emissions from land use change (Houghton, 2003), and requires a terrestrial biosphere sink of 101 GtC (in Sabine et al., given only as ranges of –140 to –80 GtC and 61 to 141 GtC, respectively; other uncertainties given in their Table 1). Net anthropogenic exchanges with the atmosphere are from Column 5 ‘AR4’ in Table 7.1. Gross fluxes generally have uncertainties of more than ±20% but fractional amounts have been retained to achieve overall balance when including estimates in fractions of GtC yr–1 for riverine transport, weathering, deep ocean burial, etc. ‘GPP’ is annual gross (terrestrial) primary production. Atmospheric carbon content and all cumulative fluxes since 1750 are as of end 1994. </i> </p>
 
+<h3> References </h3>
+
+<p>
+Ciais, P. et al. in Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds. Stocker et al.) 1–106 (Cambridge University Press, 2013).
+</p>
+
+<p>
+Le Quéré, C., et al. : Global Carbon Budget 2017, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-123, in review, 2017.
+<a href = "https://www.earth-syst-sci-data-discuss.net/essd-2017-123/" > https://www.earth-syst-sci-data-discuss.net/essd-2017-123/ </a>
+</p>
+
+<p>
+Sarmiento, J.L. and N. Gruber (2002) Sinks for anthropogenic carbon. Physics Today 55, 30-36. <a href = "http://physicstoday.scitation.org/doi/10.1063/1.1510279" > http://physicstoday.scitation.org/doi/10.1063/1.1510279 </a>
+</p>
+
 <a name="Atmosphere"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.atmosphere }})">
       <div class="wrap page-lead-content">
-        <h1> Atmosphere </h1>
+        <h1> Atmósfera </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
 <p>
-	In 1958, Charles D. Keeling began taking measurements of atmospheric CO2 at Mauna Loa, Hawaii. One can see both the seasonal cycle, dominated by the annual cycle of photosynthesis and respiration in the terrestrial biosphere of the Northern Hemisphere, as well as the clear upward trend.
+	En 1958, Charles D. Keeling empezó a tomar mediciones atmosféricas de CO2 en Mauna Loa, Hawaii.  En la figura se pueden apreciar el ciclo estacional, dominado por el ciclo anual de fotosíntesis y respiración en la biosfera terrestre en el Hemisferio Norte, así como una tendencia al alza. Apprende mas <a href="https://www.youtube.com/watch?v=0Z8g-smE2sk">aqui</a>.
 
 </p>
  
@@ -105,11 +125,15 @@ The carbon cycle is a complex system of biological, chemical and physical proces
 <p>
 	These data are now part of a global network that monitors atmospheric CO2. All observations show a steadily increasing trend. You can find the data and other information from <a href="https://www.esrl.noaa.gov/gmd/ccgg/trends/"> NOAA </a>. NOAA has also produced this <a href="https://www.youtube.com/watch?v=H2mZyCblxS4"> great visualization </a> of our current observations and the past history of CO2 in the atmosphere. 
 
+  Estos datos forman parte ahora de una red global de monitoreo de CO2 atmosférico. Todos estos registros muestran la misma tendencia al alza de la concentración de dióxido de carbono. Usted puede encontrar estos registros de datos y más información en: <a href= "http://www.esrl.noaa.gov/gmd/ccgg/trends/" > NOAA </a>   
+
+  Ver <a href= "https://www.youtube.com/watch?v=gH6fQh9eAQE"> aqui un video </a> de los datos de NOAA y la historia de CO2 de un milion de ano.
+
 </p>
 
 <p>
 
-	As explained in the following tabs, CO2 is accumulating in the atmosphere because of human activities, primarily the burning of fossil fuels and the clearing of forests for cultivation. You will also learn about how natural processes on land and in the ocean are significantly modulating the rate of CO2 growth in the atmosphere.
+	Como se explica aqui, el CO2 se acumula en la atmósfera debido a ciertas actividades humanas, principalmente el uso de combustibles fósiles y la quema de bosques para crear zonas de cultivo. También presentamos información sobre los procesos naturales que ocurren en el mar y la tierra que modulan de forma significativa el aumento del CO2 en la atmósfera.
 
 </p>
 <a name="FossilFuels"> </a>
