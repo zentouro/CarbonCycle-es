@@ -266,24 +266,25 @@ Takahashi et al. (2009) Climatological mean and decadal changes in surface ocean
 <a name="LandUse"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land }})">
       <div class="wrap page-lead-content">
-        <h1> Land Use </h1>
+        <h1> Uso de tierra</h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-<h3> The Basics </h3>
+<h3> Lo básico </h3>
 
-New agricultural land is typically created by cutting down forests. When trees are cut down and burned or left to decompose, carbon goes into the atmosphere. In the present day, deforestation and the resulting net carbon source to the atmosphere is primarily occurring in the tropics. However, in the last 200 years, forest clearing for agriculture in the middle latitudes of the Northern Hemisphere was also a substantial source of carbon to the atmosphere. Since the mid-1900’s, much of the less-productive agricultural land in the US and Europe has been allowed to regrow as forests – making for uptake of carbon from the atmosphere through carbon accumulation in woody biomass and soils.
+Las tierras nuevas de cultivo típicamente se obtienen clareando los bosques. Carbono es emitido a la atmósfera cuando los árboles se talan y se queman o se dejan para que se descompongan. En el presente, la deforestación y la resultante emisión de carbono a la atmósfera está ocurriendo en las zonas tropicales. Sin embargo, en los últimos 200 años, la formación de zonas agrícolas mediante tala de bosques que ocurrió en las latitudes medias del Hemisferio Norte fue una fuente importante de carbono en la atmósfera. Desde mediados de los años noventa, gran parte de las tierras poco productivas de Estados Unidos y Europa se han reconvertido en bosques, compensando en parte las emisiones al tomar el carbono de las atmósfera y acumularlo en la madera y el suelo.
 
 <p>
-Uncertainty in estimates of the land use source are large in part because estimates of deforestation are, themselves, uncertain, and also in part because the amount of carbon stored in the forests is not well-quantified. </p>
+La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado. </p>
 
-<h3> The Future of Land Use </h3>
+<h3> El futuro del Uso de la Tierra </h3>
 
-A variety of models were used to project future land use for the emissions scenarios use for the IPCC AR4 report (<a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=6-6"> IPCC Special Report on Emission Scenarios, Chapter 6, Figure 6-6b</a>). These models suggest that deforestation will peak by about 2025 and then gradually decline with time. This trend is primarily driven by reduced rates of population growth and improving agricultural productivity. Eventually, several scenarios predict that land use, currently a substantial source of CO2 to the atmosphere, will become a sink of CO2 from the atmosphere as forests grow back.
+Se utilizaron una gran variedad de modelos numéricos para predecir las emisiones de carbono a la atmósfera por el uso de suelo en el reporte IPCC AR4  (<a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=6-6"> Reporte Especial de los Escenarios de Emisiones del IPCC, Chapter 6, Figure 6-6b</a>). Estos modelos sugieren que la deforestación llegará a su cumbre en el 2025 para declinar gradualmente con el tiempo. Esta tendencia será determinada por las tazas de crecimiento poblacional y las mejoras en la productividad agrícola. Diferentes escenarios muestran que, eventualmente, el Uso de la Tierra, que actualmente es una fuente importante de CO2 de la atmósfera, se transformará en un sumidero al crecer los bosques.
 
-<h3> What is the difference between Land Use and Land Uptake? </h3>
 
-These terms are separated to clarify the direct impact of humans in forest clearing and subsequent regrowth (Land Use), and the natural system’s response to anthropogenic addition of carbon to the atmosphere and climate warming (Land Uptake). In many studies, however, it is impractical to precisely distinguish between these two terms and so often some component of the Land Use term (such as afforestation in the mid-latitudes) is effectively subsumed into the Land Uptake term.
+<h3> ¿Cuál es la diferencia entre el Uso de la Tierra y Toma terrestre de Carbono? </h3>
+
+Se utilizan estos dos términos para clarificar el impacto humano en la tala y clareado de tierras, y el crecimiento subsecuente de bosques (Uso de tierra), y la respuesta de la naturaleza a las emisiones antropológicas de carbono (Toma Terrestre de Carbono). Sin embargo, cuesta trabajo distinguir estos dos términos en muchos de los estudios, por lo que algunos de los términos que corresponden al Uso de tierra (como la reforestación en latitudes medias) se confunden con los que corresponden a la Toma Terrestre de Carbono.Se utilizan estos dos términos para clarificar el impacto humano en la tala y clareado de tierras, y su crecimiento subsecuente de bosques (Uso de tierra), y la respuesta de la naturaleza a las emisiones antropológicas de carbono (Toma Terrestre de Carbono). Sin embargo, cuesta trabajo distinguir estos dos términos en muchos de los estudios, por lo que algunos de los términos que corresponden al Uso de tierra (como la reforestación en latitudes medias) se confunden con los que corresponden a la Toma Terrestre de Carbono.
 
 <h4> References: </h4>
 
@@ -292,38 +293,43 @@ These terms are separated to clarify the direct impact of humans in forest clear
 <a name="LandUptake"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.land2 }})">
       <div class="wrap page-lead-content">
-        <h1> Land Uptake </h1>
+        <h1> Absorción Terrestre del Carbono </h1>
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
-<h3> The Basics </h3>
+<h3> Lo Básico </h3>
 
-The land biosphere takes up and releases enormous amounts of carbon each year as it cycles through periods of growth and dormancy. Growth leads to the accumulation of carbon in leaves and stalks, woody parts, roots, and in soils. Decay of dead matter, primarily on the ground and in soils, returns carbon to the atmosphere. This cycling can be seen in the atmospheric CO2 observations on the Atmosphere tab, and in the animation at the bottom of this page.
-
-<p>
-Because land plants are sensitive to short-term changes in climate that make for variable quality of growing seasons, and is also vulnerable to extreme events such as fire, drought and flooding, there is substantial year-to-year variability in the magnitude of the carbon uptake by the terrestrial biosphere. This can be seen in the historical record shown in orange in the <a href="{{ site.url }}/applet/"> applet</a>. </p>
-
-<h3> Why is the Land Biosphere Absorbing Atmospheric CO2? </h3>
-
-The current net carbon uptake by the land biosphere is primarily due to the physiological or metabolic responses by plants to the increasing CO2 concentration in the atmosphere or to climate warming. (1) Warming may stimulate growth, and allow growth of trees at higher latitudes than previously possible. (2) The leaves of plants must open their stomata to take in CO2, but this opening also leads to loss of water. Thus, if there is more CO2 in the air, the stomata don’t need to be open so much, and thus water loss can be lessened.  (3) Humans are also substantially modifying the global nitrogen cycle, increasing the nitrogen available to plants. This is likely stimulating some additional growth. (4) There may be important synergies between the carbon, nitrogen, and warming effects on plants.
+La biosfera terrestre toma y libera enormes cantidades de carbono cada año durante los periodos de crecimiento y de hibernación. El crecimiento conduce una acumulación del carbono en las hojas y tallos, las partes de madera, las raíces y en el suelo. El decaimiento de la materia muerte, principalmente sobre la tierra y dentro del suelo, regresa el carbono a la atmósfera. Este ciclo se puede apreciar en el registros de las observaciones de CO2 en la atmósfera en la seccion “Atmósfera”.
 
 <p>
-Yet, there is large uncertainty in the uptake of carbon by natural component of the terrestrial biosphere; and studies using independent data and methodologies do not tend to agree as to the size of the land uptake. Heterogeneity across and within forests, prairies, and agriculture lands makes extrapolation from small-scale studies difficult; there are poorly-quantified horizontal transfers in groundwater, inland waters and to the coastal ocean [Tranvik et al. 2009]; and global scale budget efforts are confounded by insufficient data and uncertainty in the atmospheric transport that connects and mixes terrestrial flux signals on their way to distant observation locations [Gurney et al. 2002]. </p>
+Existe una gran variabilidad de un año a otro en la magnitud de la toma de carbono por parte de la biosfera terrestre ya que la temporada de crecimiento de las plantas es muy variable.  El crecimiento de las planta es variable porque éstas son muy sensibles a cambios climáticos de periodo corto, así como a incendios, sequías e inundaciones. Esto se puede ver en el registro histórico que se muestra en naranja en <a href="{{ site.url }}/applet/">applet</a>. </p>
 
-<h3> The Future of Land Uptake </h3>
+<h3> ¿Por qué la biosfera terrestre absorbe CO2 atmosférico? </h3>
 
-In the <a href="{{ site.url }}/applet/"> applet</a>, you can see that the IPCC range for future Land Uptake is large. This is because we have a poor handle on the processes responsible for Land Uptake at present, and so cannot make precise predictions for the future.
-
-<p>
-The “CO2 fertilization effect” of enhanced growth by plants with more CO2 has been shown to be primarily a temporary effect that saturates after a few years. Much of the range of IPCC predictions, shown in the <a href="{{ site.url }}/applet/"> applet</a>, is due to a range of assumptions about this process. There is less information about nitrogen fertilization and its possible future role, and even less about possible synergies of the mechanisms. </p>
+La toma neta de carbono por la biosfera terrestre se debe principalmente a la respuesta fisiológica o metabólica de las plantas al aumento en la concentración de CO2 en la atmósfera, o al calentamiento global. Las plantas son más eficientes en su crecimiento bajo estas nuevas circunstancias debido a: (1) El calentamiento puede estimular el crecimiento, lo que permite el crecimiento de árboles a mayores latitudes y alturas de lo que antes era posible. (2) En condiciones normales las plantas pierden agua por sus estomas cuando éstas se abren para tomar el CO2del aire. Cuando aumenta la concentración de CO2, las plantas abren menos sus estomas, lo que les permite ahorrar agua. (3) La actividad humana también está cambiando sustancialmente el ciclo global del nitrógeno, al aumentar la cantidad de nitrógeno disponible para la plantas. Lo más probable es que esto estimule un mayor crecimiento. (4) Pueden darse importantes sinergias entre el carbono, nitrógeno, y el calentamiento global en las plantas.
 
 <p>
-In addition, the land may become a natural source of carbon to the atmosphere. Persistent drought may cause dramatic forest fires and large “natural” losses in tropical forests. There is also lots of organic carbon stored in the permafrosts at high latitudes and in soils. Warming temperatures will lead to thawing and increased microbial activity, and so CO2 will be released as this organic matter decomposes. The magnitudes of these reservoirs and their sensitivities to warming are important research questions at present. In the <a href="{{ site.url }}/applet/"> applet</a>, the Land Uptake range crosses into the realm of a CO2 source primarily because of these effects. </p>
+Aún así, existe una gran incertidumbre en la toma de carbono de forma natural por parte de la biosfera terrestre. Hay varias razones para esta incertidumbre: los estudios que utilizan metodología y datos independientes  para cuantificar la toma de CO2 por las plantas no logran ponerse de acuerdo; resulta difícil extrapolar de estudios en pequeña escala porque se han observado heterogeneidades en bosques, estepas y zonas agrícolas; las cuantificaciones del transporte horizontal en los lagos y rios hacia las zonas costeras son muy pobre [Raymond et al. 2013, Benway et al. 2016, Golub et al. 2017], y tampoco se tienen buenos resultados mediante esfuerzos globales de medición ya que no hay suficientes datos y existe mucha incertidumbre en el transporte atmosférico que conecta y mezcla los flujos terrestres en su camino a las estaciones de medición [Gurney et al. 2013]. </p>
+
+<h3> El futuro de la Absorción Terrestre del Carbono </h3>
+
+En el <a href="{{ site.url }}/applet/"> applet</a>, se puede observar que el rango del IPCC para la Absorción Terrestre del Carbono es muy grande. El rango es tan grande, ya que no comprendemos bien los procesos de Absorción Terrestre del Carbono, por lo que es posible hacer predicciones buenas para el futuro.
 
 <p>
-It is very important that we better understand the mechanisms of land uptake. As understanding improves, predictions will be of greater assistance to carbon management decision-making. Improving mechanistic understanding is a central focus of the US-led <a href="www.nacarbon.org"> North American Carbon Program </a> and Europe’s <a href="http://www.carboeurope.org/"> CarboEurope</a>. </p>
+Ha sido demostrado que el “efecto de fertilización con CO2“, que permite crecer más a las plantas con más CO2, es un efecto temporal que se satura después de unos años. Gran parte del rango en applet se debe a ciertas suposiciones sobre este proceso. Se cuenta con menos información sobre la fertilización con nitrógeno y su posible rol en el futuro, y menos aún sobre las posibles sinergias entre los mecanismos. </p>
+
+<p>
+Además, la tierra puede convertirse en una fuente natural de carbono. Las sequías persistentes pueden ocasionar incendios forestales dramáticos y grandes pérdidas “naturales” de bosques tropicales. También hay gran cantidad de carbono orgánico almacenado en los suelos y en el permafrost (Capa de la corteza de la tierra que permanece bajo 0 °C todo el año) en latitudes altas. El calentamiento puede acelerar la actividad macrobiótica en el suelo así como derretir el permafrost, lo que generaría una liberación grande de CO2 al descomponerse la materia orgánica. El tamaño de estos reservorios y su sensibilidad al calentamiento son preguntas muy importantes que aún no tienen respuesta (Schuur et al. 2015). En el applet, la Absorción Terrestre del Carbono cruza por los valores reales debido a estos efectos. </p>
+
+<p>
+Es muy importante que logremos entender estos mecanismos de Absorción Terrestre del Carbono. Las predicciones se volverán más útiles a medida que mejore nuestro entendimiento de estos procesos. El programa <a href="www.nacarbon.org"> North American Carbon Program </a> en los Estados Unidos tiene como objetivo principal el mejorar nuestro entendimiento de estos procesos.</p>
+
 
 <h4> References: </h4>
+
+<p>
+Benway, H., et al. 2016. A Science Plan for Carbon Cycle Research in North American Coastal Waters. Report of the Coastal CARbon Synthesis (CCARS) community workshop, August 19-21, 2014, Ocean Carbon and Biogeochemistry Program and North American Carbon Program, 84 pp. <a href="http://www.us-ocb.org/wp-content/uploads/sites/43/2017/01/CCARS_Sci_Plan_DRAFT.pdf">Download </a>
+</p>
 
 <p>
   <a href="http://www.nature.com/nature/journal/v415/n6872/abs/415626a.html?lang=en">
@@ -332,15 +338,16 @@ Gurney, K.R. et al. (2002) Towards robust regional estimates of CO2 sources and 
 </p>
 
 <p>
-  <a href="http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.earth.35.031306.140057?cookieSet=1">
-Houghton, R.A. (2007) Balancing the global carbon budget. Annu. Rev. Earth Planet. Sci. 35:313-47. 10.1146/annurev.earth.35.031306.140057 
-  </a>
+Golub, M., Desai, A. R., McKinley, G. A., Remucal, C. K. & Stanley, E. H. Large Uncertainty in Estimating pCO2 from Carbonate Equilibria in Lakes. J Geophys Res-Biogeo, doi:10.1002/2017JG003794 (2017). 
 </p>
 
 <p>
- <a href="http://onlinelibrary.wiley.com/doi/10.4319/lo.2009.54.6_part_2.2298/abstract">
-Tranvik, L. et al. (2009) Lakes and reservoirs as regulators of carbon cycling and climate. Limnol. Oceanogr., 54(6, part 2), 2009, 2298–2314.
-  </a>
+Raymond, P. A. et al. Global carbon dioxide emissions from inland waters. Nature 503, 355–359, doi:10.1038/nature12760 (2013).
 </p>
+
+<p>
+Schuur, E. A. G. et al. Climate change and the permafrost carbon feedback. Nature 520, 171–179, doi:10.1038/nature14338 (2015).
+</p>
+
 
 </div>
