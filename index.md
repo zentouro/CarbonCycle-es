@@ -17,12 +17,12 @@ published: true
 	
 	<div style="text-align:center"> 
 
-	<a href="#CarbonCycle" class="btn-inverse"> Carbon Cycle</a> 
-    <a href="#Atmosphere" class="btn-inverse">Atmosphere</a> 
-    <a href="#FossilFuels" class="btn-inverse">Fossil Fuels</a> 
-    <a href="#OceanUptake" class="btn-inverse">Ocean Uptake</a> 
-    <a href="#LandUse" class="btn-inverse">Land Use</a> 
-    <a href="#LandUptake" class="btn-inverse">Land Uptake</a> 
+	<a href="#CarbonCycle" class="btn-inverse">Ciclo del Carbono</a> 
+    <a href="#Atmosphere" class="btn-inverse">Atmósfera</a> 
+    <a href="#FossilFuels" class="btn-inverse">Combustibles Fósiles</a> 
+    <a href="#OceanUptake" class="btn-inverse">Absorción Océanica del Carbono</a> 
+    <a href="#LandUse" class="btn-inverse">Uso de Tierra</a> 
+    <a href="#LandUptake" class="btn-inverse">Absorción Terrestre del Carbono</a> 
       
 
 	</div>
