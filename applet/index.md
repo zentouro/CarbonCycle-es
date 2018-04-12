@@ -10,10 +10,10 @@ published: true
 
 <p>
 
-Estipula las fuentas y sumideros del CO2 al deslizar los puntos verdes en la grafica de la izquierda.
+Estipula las fuentes y sumideros del CO2 al deslizar los puntos verdes en la gráfica de la izquierda.
 
 <br>
-Oprime Corre Proyección para obener el impacto en CO2 atmosférico (gráfica a la dereche) y los flujos relativos (gráfica de abajo)
+Oprime Corre Proyección para obtener el impacto en CO2 atmosférico (gráfica a la derecha) y los flujos relativos (gráfica de abajo)
 
 </p>
 
@@ -25,8 +25,8 @@ Oprime Corre Proyección para obener el impacto en CO2 atmosférico (gráfica a 
 **Notas Importantes:**
 
 1. Las áreas azules indican los rangos predecidos por los modelos numéricos usados en el Cuarto Informe del Grupo de Expertos para el Cambio Climático ([IPCC AR4, 2007](http://www.ipcc.ch/publications_and_data/publications_ipcc_fourth_assessment_report_synthesis_report.htm)).
-2. La estimación de la respuesta global de la temperatura está basado en el promedio de la sensitividad al CO2 de los modelos usados en el IPCC AR4 (2007). Se incluye a modo de ilustración.
-3. Se pueden utlilizar los resultados de CO2 atmosférico para ser usados como condiciones iniciales del modelo numérico educativo de cambio climático EdGCM ([Educational Global Climate Model](http://edgcm.columbia.edu/)). Para obtener estos resultados, solo hay que oprimir el botón EdGCM. Archive este archivo en la carpeta EdGCM/Input Forcings en su computadora (si tiene EdGCM). Usted podrá ver el archivo bajo Setup Simulations – CO2 al iniciar el modelo EdGCM.
+2. La estimación de la respuesta global de la temperatura está basado en el promedio de la sensibilidad al CO2 de los modelos usados en el IPCC AR4 (2007). Se incluye a modo de ilustración.
+3. Se pueden utilizar los resultados de CO2 atmosférico para ser usados como condiciones iniciales del modelo numérico educativo de cambio climático EdGCM ([Educational Global Climate Model](http://edgcm.columbia.edu/)). Para obtener estos resultados, solo hay que oprimir el botón EdGCM. Archive este archivo en la carpeta EdGCM/Input Forcings en su computadora (si tiene EdGCM). Usted podrá ver el archivo bajo Setup Simulations – CO2 al iniciar el modelo EdGCM.
 
 
 
